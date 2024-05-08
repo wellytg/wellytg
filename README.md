@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wellytg
-- 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning Machine Learning and blockchain
-- 💞️ I’m looking to collaborate on Image Processing
+- 👀 I’m interested in Web Technologies and Cybersecurity
+- 🌱 I’m currently learning Machine Learning and Blockchain
+- 💞️ I’m looking to collaborate on dAPP, cybersecurity and DeFI
 - 📫 How to reach me www.wgwavava.me
 
 <!---
