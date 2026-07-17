@@ -32,8 +32,8 @@ SOC Externship (Live)     Research Day 2026           Hackathon Organiser
 
 ### Publications
 
-- **Measuring Strategy Coherence in SOCs: A Goal-Metric Mapping Framework** — Pre-ICIS Workshop on Information Security & Privacy, Nashville (Dec 2025)
-- **Mismatched SOCs: A Case Study of Cybersecurity Goal Incongruency Within An Academic SOC** — WOSOC 2025
+- [**Measuring Strategy Coherence in SOCs: A Goal-Metric Mapping Framework**](https://aisel.aisnet.org/wisp2025/15/) — Pre-ICIS Workshop on Information Security & Privacy, Nashville (Dec 2025)
+- [**Mismatched SOCs: A Case Study of Cybersecurity Goal Incongruency Within An Academic SOC**](https://www.ndss-symposium.org/ndss-paper/auto-draft-555/) — WOSOC 2025
 
 ---
 
