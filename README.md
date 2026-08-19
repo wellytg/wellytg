@@ -1,4 +1,4 @@
-# Wellington G | Cybersecurity Researcher & SOC Analyst
+# Wellington | Cybersecurity Researcher & SOC Analyst
 
 > *I research why SOCs fail — and then build the systems that make them work.*
 
