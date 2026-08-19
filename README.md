@@ -49,4 +49,4 @@ SOC Externship (Live)     Research Day 2026           Hackathon Organiser
 
 ---
 
-🌐 [wellytg.github.io](https://wellytg.github.io) &nbsp;·&nbsp; 💼 [linkedin.com/in/wellingtongwavava](https://linkedin.com/in/wellingtongwavava) &nbsp;·&nbsp; 🏅 [Credly Badges](https://www.credly.com/users/wellington-gwavava/badges)
+🌐 [wellytg.github.io](https://wellytg.github.io)
