@@ -10,10 +10,11 @@
 PRACTITIONER              RESEARCHER                  LEADER
 ──────────────────        ──────────────────          ──────────────────
 CISA LME Deployment       2× Published 2025           ISC2 Tulsa Secretary
-Cribl Admin L2            PhD Candidate (Cyber)       NSBE Senator
-Wazuh · ELK · SIEM        SOC Goal Incongruency       GSA Senator (Cyber)
-Detection Engineering     Quantitative Risk Metrics   TU Cyber Fellow
-SOC Externship (Live)     Research Day 2026           Hackathon Organiser
+Cribl Admin L2            HICSS-60 (2027, accepted)   NSBE Senator
+Wazuh · ELK · SIEM        PhD (Cyber) · exp May 2027  GSA Event Coordinator
+Detection Engineering     SOC Goal Incongruency       TU Cyber Fellow
+SOC Externship (Live)     Quantitative Risk Metrics   Hackathon Organiser
+                          Research Day 2026
 ```
 
 ---
@@ -32,6 +33,7 @@ SOC Externship (Live)     Research Day 2026           Hackathon Organiser
 
 ### Publications
 
+- **Beyond Measuring Busyness: A Goal-Coherence Diagnostic for Auditing the Incentive Signal in Security Operations Center Performance Measurement** — HICSS-60, Hawaii International Conference on System Sciences (forthcoming 2027)
 - [**Measuring Strategy Coherence in SOCs: A Goal-Metric Mapping Framework**](https://aisel.aisnet.org/wisp2025/15/) — Pre-ICIS Workshop on Information Security & Privacy, Nashville (Dec 2025)
 - [**Mismatched SOCs: A Case Study of Cybersecurity Goal Incongruency Within An Academic SOC**](https://www.ndss-symposium.org/ndss-paper/auto-draft-555/) — WOSOC 2025
 
@@ -45,7 +47,7 @@ SOC Externship (Live)     Research Day 2026           Hackathon Organiser
 
 ### Community & Leadership
 
-`ISC2 Tulsa Metro Chapter — Secretary` &nbsp;·&nbsp; `NSBE Senator` &nbsp;·&nbsp; `GSA (TU) Senator, Cyber Studies` &nbsp;·&nbsp; `Zimbabwe Institute of Engineers` &nbsp;·&nbsp; `Global Game Jam 2025 & 2026`
+`ISC2 Tulsa Metro Chapter — Secretary` &nbsp;·&nbsp; `NSBE Senator` &nbsp;·&nbsp; `GSA (TU) Event Coordinator` &nbsp;·&nbsp; `Zimbabwe Institute of Engineers` &nbsp;·&nbsp; `Global Game Jam 2025 & 2026`
 
 ---
 
