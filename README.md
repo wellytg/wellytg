@@ -33,7 +33,7 @@ SOC Externship (Live)     Quantitative Risk Metrics   Hackathon Organiser
 
 ### Publications
 
-- **Beyond Measuring Busyness: A Goal-Coherence Diagnostic for Auditing the Incentive Signal in Security Operations Center Performance Measurement** — HICSS-60, Hawaii International Conference on System Sciences (forthcoming 2027)
+- [**Beyond Measuring Busyness: A Goal-Coherence Diagnostic for Auditing the Incentive Signal in Security Operations Center Performance Measurement**](https://hicss.hawaii.edu/) — HICSS-60, Hawaii International Conference on System Sciences (forthcoming 2027)
 - [**Measuring Strategy Coherence in SOCs: A Goal-Metric Mapping Framework**](https://aisel.aisnet.org/wisp2025/15/) — Pre-ICIS Workshop on Information Security & Privacy, Nashville (Dec 2025)
 - [**Mismatched SOCs: A Case Study of Cybersecurity Goal Incongruency Within An Academic SOC**](https://www.ndss-symposium.org/ndss-paper/auto-draft-555/) — WOSOC 2025
 
