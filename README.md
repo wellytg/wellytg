@@ -10,10 +10,10 @@
 PRACTITIONER              RESEARCHER                  LEADER
 ──────────────────        ──────────────────          ──────────────────
 CISA LME Deployment       2× Published 2025           ISC2 Tulsa Secretary
-Cribl Admin L2            HICSS-60 (2027, accepted)   NSBE Senator
+Cribl Admin L2            HICSS-60 (forthcoming 2027) NSBE Senator
 Wazuh · ELK · SIEM        PhD (Cyber) · exp May 2027  GSA Event Coordinator
 Detection Engineering     SOC Goal Incongruency       TU Cyber Fellow
-SOC Externship (Live)     Quantitative Risk Metrics   Hackathon Organiser
+SOC Research Externship   Quantitative Risk Metrics   Hackathon Organiser
                           Research Day 2026
 ```
 
@@ -23,31 +23,35 @@ SOC Externship (Live)     Quantitative Risk Metrics   Hackathon Organiser
 
 | Repo | What it is |
 |---|---|
-| [LME-SOC-Deployment](https://github.com/wellytg/LME-SOC-Deployment) | CISA LME full-stack — Cribl · ELK · Wazuh detection pipeline |
-| [digivault](https://github.com/wellytg/digivault) | AI Security Recon & breach analysis · Hurricane Hackathon 2026 |
-| [soc-paradox-sim](https://github.com/wellytg/soc-paradox-sim) | SOC Speed-Quality Paradox simulator · linked to published research |
-| [SPYN](https://github.com/wellytg/SPYN) | Smart People You Need · Hurricane Pitch MVP |
-| [hacklahoma-dream-team](https://github.com/wellytg/hacklahoma-dream-team) | Hacklahoma 2025 · TypeScript team project |
+| LME-SOC-Deployment | Full CISA LME stack (Cribl, Wazuh, Elastic) deployed in an operational SOC |
+| [meta-hackathon-shadowfenced](https://github.com/wellytg/meta-hackathon-shadowfenced) | Meta Global AI Developer Hackathon (Indie track), 2026: designed and directed Shadowfenced, a local AI egress guard that blocks secrets and personal data before they reach AI tools and coding agents. |
+| [context-forge-hackathon](https://github.com/wellytg/context-forge-hackathon) | IBM TechXchange 2026 Dev Day Hackathon, 2026: designed and directed Context Forge, a role-bounded fleet security agent whose two independent gates stop device updates from escalating privileges. · [Demo video](https://youtu.be/z53_IAGWJXo) |
+| [soc-paradox-sim](https://github.com/wellytg/soc-paradox-sim) | Simulates the SOC speed-quality paradox with the Goal-Coherence Matrix |
+| [digivault](https://github.com/wellytg/digivault) | OSINT profile construction and breach detection · Hurricane Hackathon 2026 |
+| [SPYN](https://github.com/wellytg/SPYN) | Smart People You Need · talent-matching MVP for the Hurricane Pitch competition |
+| [hacklahoma-dream-team](https://github.com/wellytg/hacklahoma-dream-team) | Team full-stack TypeScript project from Hacklahoma |
 
 ---
 
 ### Publications
 
-- [**Beyond Measuring Busyness: A Goal-Coherence Diagnostic for Auditing the Incentive Signal in Security Operations Center Performance Measurement**](https://hicss.hawaii.edu/) — HICSS-60, Hawaii International Conference on System Sciences (forthcoming 2027)
-- [**Measuring Strategy Coherence in SOCs: A Goal-Metric Mapping Framework**](https://aisel.aisnet.org/wisp2025/15/) — Pre-ICIS Workshop on Information Security & Privacy, Nashville (Dec 2025)
-- [**Mismatched SOCs: A Case Study of Cybersecurity Goal Incongruency Within An Academic SOC**](https://www.ndss-symposium.org/ndss-paper/auto-draft-555/) — WOSOC 2025
+- [**Beyond Measuring Busyness: A Goal-Coherence Diagnostic for Auditing the Incentive Signal in Security Operations Center Performance Measurement**](https://hicss.hawaii.edu/) — 60th Hawaii International Conference on System Sciences (HICSS-60), forthcoming 2027
+- [**Measuring Strategy Coherence in Security Operations Centers: A Goal-Metric Mapping Framework**](https://aisel.aisnet.org/wisp2025/15/) — Pre-ICIS Workshop on Information Security & Privacy, Nashville (Dec 2025)
+- [**Mismatched SOCs: A Case Study of Cybersecurity Goal Incongruency Within an Academic SOC**](https://www.ndss-symposium.org/ndss-paper/auto-draft-555/) — Workshop on SOC Operations and Construction (WOSOC 2025), co-located with NDSS Symposium 2025, San Diego, CA
 
 ---
 
 ### Certifications
 
-`ISC2 CC` &nbsp;·&nbsp; `Cribl Certified Admin L2` &nbsp;·&nbsp; `Cribl Certified User L1` &nbsp;·&nbsp; `Google Cybersecurity` &nbsp;·&nbsp; `AWS Cloud Foundations`
+`ISC2 CC` &nbsp;·&nbsp; `Cribl Certified Admin L2` &nbsp;·&nbsp; `Cribl Certified User L1` &nbsp;·&nbsp; `Google Cybersecurity` &nbsp;·&nbsp; `Google AI Professional Certificate` &nbsp;·&nbsp; `AI for App Deployment (Google)` &nbsp;·&nbsp; `NVIDIA DLI: Building LLM Applications With Prompt Engineering`
+
+Training: `AWS Academy Cloud Foundations`
 
 ---
 
 ### Community & Leadership
 
-`ISC2 Tulsa Metro Chapter — Secretary` &nbsp;·&nbsp; `NSBE Senator` &nbsp;·&nbsp; `GSA (TU) Event Coordinator` &nbsp;·&nbsp; `Zimbabwe Institute of Engineers` &nbsp;·&nbsp; `Global Game Jam 2025 & 2026`
+`ISC2 Tulsa Metro Chapter — Secretary` &nbsp;·&nbsp; `NSBE (TU Chapter) — Senator` &nbsp;·&nbsp; `GSA (TU) — Event Coordinator; Senator 2025–2026` &nbsp;·&nbsp; `TU Cyber Fellow` &nbsp;·&nbsp; `Zimbabwe Institute of Engineers — Corporate Member` &nbsp;·&nbsp; `Meta Global AI Developer Hackathon 2026 — designed and directed Shadowfenced` &nbsp;·&nbsp; `IBM TechXchange 2026 Dev Day Hackathon — designed and directed Context Forge` &nbsp;·&nbsp; `Global Game Jam 2025 & 2026`
 
 ---
 
