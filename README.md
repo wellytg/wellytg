@@ -1,4 +1,4 @@
-# Wellington | Cybersecurity Researcher & SOC Analyst
+# Wellington | SOC Analyst | Detection Engineer | Cybersecurity Researcher | PhD Candidate
 
 > *I research why SOCs fail — and then build the systems that make them work.*
 
@@ -27,6 +27,7 @@ SOC Research Externship   Quantitative Risk Metrics   Hackathon Organiser
 | [meta-hackathon-shadowfenced](https://github.com/wellytg/meta-hackathon-shadowfenced) | Meta Global AI Developer Hackathon (Indie track), 2026: designed and directed Shadowfenced, a local AI egress guard that blocks secrets and personal data before they reach AI tools and coding agents. |
 | [context-forge-hackathon](https://github.com/wellytg/context-forge-hackathon) | IBM TechXchange 2026 Dev Day Hackathon, 2026: designed and directed Context Forge, a role-bounded fleet security agent whose two independent gates stop device updates from escalating privileges. · [Demo video](https://youtu.be/z53_IAGWJXo) |
 | [soc-paradox-sim](https://github.com/wellytg/soc-paradox-sim) | Simulates the SOC speed-quality paradox with the Goal-Coherence Matrix |
+| [SOC-Job-Task-Analyzer](https://github.com/wellytg/SOC-Job-Task-Analyzer) | Agentic LLM pipeline that classifies SOC duties from 49 job descriptions (>85% agreement). |
 | [digivault](https://github.com/wellytg/digivault) | OSINT profile construction and breach detection · Hurricane Hackathon 2026 |
 | [SPYN](https://github.com/wellytg/SPYN) | Smart People You Need · talent-matching MVP for the Hurricane Pitch competition |
 | [hacklahoma-dream-team](https://github.com/wellytg/hacklahoma-dream-team) | Team full-stack TypeScript project from Hacklahoma |
